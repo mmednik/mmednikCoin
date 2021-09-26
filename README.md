@@ -6,7 +6,7 @@ Very simple implementation of a Smart Contract for a ERC20 token.
 
 ## Features
 
-According ERC20 standard, this Smart Contract implements the following functions:
+According [ERC20 standard](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/), this Smart Contract implements the following functions:
 
 - totalSupply()
 - balanceOf()
